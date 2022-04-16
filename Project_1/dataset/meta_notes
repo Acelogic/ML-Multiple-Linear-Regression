@@ -1,0 +1,11 @@
+81 datatypes in train file (Sales Price)
+80 datatypes in test file 
+
+
+Model to Predict Sales price (Sample Submissions)
+
+
+1) Training data build model to predict sales price
+2) Take the model with the test data
+3) Compare the predicted price with the actual sales price (expreimental vs actual)
+4) Compute the margin of error the the experimental vs the actual 
